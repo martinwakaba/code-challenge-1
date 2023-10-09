@@ -1,3 +1,7 @@
+CODE CHALLENGE
+Hi, I am Martin Wakaba. A passionate frontend developer.
+
+
 THIS FOLDER CONTAINS 3 FILES WITH THREE DIFFERENT CHALLENGES(challenge-1.js, challenge-2.js, challenge-3.js). I HAVE LISTED AND EXPLAINED ALL 3 CHALLENGES DOWN BELOW.
 
 
